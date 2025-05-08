@@ -40,10 +40,10 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 03 - Data & Algo Thinking
 
-- [ ] Rèn luyện tư duy giải quyết vấn đề bằng thuật toán  
-- [ ] Hiểu khái niệm Big O và độ phức tạp thuật toán  
-- [ ] Thành thạo các thuật toán phổ biến và ứng dụng của chúng  
-- [ ] Áp dụng tư duy thuật toán vào bài toán tối ưu hoá
+- [x] Rèn luyện tư duy giải quyết vấn đề bằng thuật toán  
+- [x] Hiểu khái niệm Big O và độ phức tạp thuật toán  
+- [x] Thành thạo các thuật toán phổ biến và ứng dụng của chúng  
+- [x] Áp dụng tư duy thuật toán vào bài toán tối ưu hoá
 
 ---
 
