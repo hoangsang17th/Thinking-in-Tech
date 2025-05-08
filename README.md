@@ -29,12 +29,12 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 02 - Linux Thinking
 
-- [ ] Hiểu triết lý Unix/Linux: *"Everything is a file"*, KISS  
-- [ ] Sử dụng command-line và scripting cơ bản  
-- [ ] Quản lý hệ thống Linux:
-  - [ ] Quản lý tiến trình (process)
-  - [ ] Phân quyền (permissions)  
-- [ ] Hiểu ảnh hưởng triết lý Unix đến phần mềm hiện đại
+- [x] Hiểu triết lý Unix/Linux: *"Everything is a file"*, KISS  
+- [x] Sử dụng command-line và scripting cơ bản  
+- [x] Quản lý hệ thống Linux:
+  - [x] Quản lý tiến trình (process)
+  - [x] Phân quyền (permissions)  
+- [x] Hiểu ảnh hưởng triết lý Unix đến phần mềm hiện đại
 
 ---
 
