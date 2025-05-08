@@ -7,14 +7,14 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 00 - Think Different
 
-- [ ] Hiểu tư duy đổi mới và sáng tạo trong công nghệ  
-- [ ] Phân biệt sự khác nhau giữa *sáng tạo* và *sao chép*  
-- [ ] Khám phá các mô hình tư duy:
-  - [ ] Lateral Thinking
-  - [ ] First Principles Thinking  
-- [ ] Nghiên cứu các case study thành công nhờ tư duy khác biệt:
-  - [ ] Cá nhân xuất sắc
-  - [ ] Thương hiệu dẫn đầu
+- [x] Hiểu tư duy đổi mới và sáng tạo trong công nghệ  
+- [x] Phân biệt sự khác nhau giữa *sáng tạo* và *sao chép*  
+- [x] Khám phá các mô hình tư duy:
+  - [x] Lateral Thinking
+  - [x] First Principles Thinking  
+- [x] Nghiên cứu các case study thành công nhờ tư duy khác biệt:
+  - [x] Cá nhân xuất sắc
+  - [x] Thương hiệu dẫn đầu
 
 ---
 
