@@ -88,16 +88,16 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 07 - Web Thinking
 
-- [ ] Hiểu các mô hình kiến trúc Web:
-  - [ ] Monolithic
-  - [ ] Microservices  
-- [ ] Thành thạo giao tiếp Web:
-  - [ ] HTTP
-  - [ ] RESTful
-  - [ ] GraphQL
-  - [ ] WebSockets  
-- [ ] Nắm vững nguyên tắc bảo mật trong ứng dụng Web  
-- [ ] Tối ưu hóa hiệu suất ứng dụng Web
+- [x] Hiểu các mô hình kiến trúc Web:
+  - [x] Monolithic
+  - [x] Microservices  
+- [x] Thành thạo giao tiếp Web:
+  - [x] HTTP
+  - [x] RESTful
+  - [x] GraphQL
+  - [x] WebSockets  
+- [x] Nắm vững nguyên tắc bảo mật trong ứng dụng Web  
+- [x] Tối ưu hóa hiệu suất ứng dụng Web
 
 ---
 
