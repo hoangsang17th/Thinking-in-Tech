@@ -49,10 +49,10 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 04 - Database Thinking
 
-- [ ] Nắm vững các loại cơ sở dữ liệu: SQL, NoSQL, NewSQL  
-- [ ] Tối ưu hóa truy vấn và sử dụng index hiệu quả  
-- [ ] Hiểu sự khác biệt giữa ACID và BASE  
-- [ ] Thiết kế hệ thống phân tán: sharding, replication
+- [x] Nắm vững các loại cơ sở dữ liệu: SQL, NoSQL, NewSQL  
+- [x] Tối ưu hóa truy vấn và sử dụng index hiệu quả  
+- [x] Hiểu sự khác biệt giữa ACID và BASE  
+- [x] Thiết kế hệ thống phân tán: sharding, replication
 
 ---
 
