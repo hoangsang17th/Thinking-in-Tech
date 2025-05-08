@@ -20,10 +20,10 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 01 - System Thinking
 
-- [ ] Nắm vững tư duy hệ thống và tầm quan trọng của nó  
-- [ ] Hiểu các thành phần trong một hệ thống và cách chúng tương tác  
-- [ ] Áp dụng cách tiếp cận vấn đề theo hướng hệ thống  
-- [ ] Ứng dụng tư duy hệ thống trong công nghệ thực tiễn
+- [x] Nắm vững tư duy hệ thống và tầm quan trọng của nó  
+- [x] Hiểu các thành phần trong một hệ thống và cách chúng tương tác  
+- [x] Áp dụng cách tiếp cận vấn đề theo hướng hệ thống  
+- [x] Ứng dụng tư duy hệ thống trong công nghệ thực tiễn
 
 ---
 
