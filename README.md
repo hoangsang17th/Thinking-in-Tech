@@ -112,14 +112,15 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 09 - Software Architecture Thinking
 
-- [ ] Thành thạo các mô hình kiến trúc phần mềm:
-  - [ ] MVC
-  - [ ] MVVM
-  - [ ] Hexagonal
-  - [ ] Event-Driven  
-- [ ] Thiết kế hệ thống phân tán và xử lý song song hiệu quả  
-- [ ] Thiết kế API và quản lý vòng đời phần mềm  
-- [ ] Áp dụng các mô hình giao tiếp giữa dịch vụ:
-  - [ ] gRPC
-  - [ ] REST
-  - [ ] Event Sourcing
+- [x] Thành thạo các mô hình kiến trúc phần mềm:
+  - [x] MVC
+  - [x] MVVM
+  - [x] Hexagonal
+  - [x] Event-Driven  
+- [x] Khám phá kiến trúc Clean Architecture
+- [x] Thiết kế hệ thống phân tán và xử lý song song hiệu quả  
+- [x] Thiết kế API và quản lý vòng đời phần mềm  
+- [x] Áp dụng các mô hình giao tiếp giữa dịch vụ:
+  - [x] gRPC
+  - [x] REST
+  - [x] Event Sourcing
