@@ -58,17 +58,17 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 05 - Software Engineering Thinking
 
-- [ ] Áp dụng nguyên tắc thiết kế phần mềm: SOLID, DRY, KISS  
-- [ ] Hiểu quy trình phát triển phần mềm:
-  - [ ] Agile / Scrum
-  - [ ] DevOps  
-- [ ] Thực hành kiểm thử:
-  - [ ] Unit Test
-  - [ ] Integration Test
-  - [ ] CI/CD  
-- [ ] Thiết kế phần mềm:
-  - [ ] Hướng đối tượng
-  - [ ] Hướng dịch vụ
+- [x] Áp dụng nguyên tắc thiết kế phần mềm: SOLID, DRY, KISS  
+- [x] Hiểu quy trình phát triển phần mềm:
+  - [x] Agile / Scrum
+  - [x] DevOps  
+- [x] Thực hành kiểm thử:
+  - [x] Unit Test
+  - [x] Integration Test
+  - [x] CI/CD  
+- [x] Thiết kế phần mềm:
+  - [x] Hướng đối tượng
+  - [x] Hướng dịch vụ
 
 ---
 
