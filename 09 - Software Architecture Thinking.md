@@ -94,4 +94,14 @@ Khi bắt đầu một dự án MVP, việc lựa chọn kiến trúc phù hợp
 
 **🎉 Chúc mừng bạn đã hoàn thành chương 09 về Software Architecture Thinking!** Bạn đã có một cái nhìn sâu sắc về thế giới kiến trúc phần mềm, từ các mô hình cổ điển đến kiến trúc hiện đại như Clean Architecture, hiểu cách thiết kế hệ thống phân tán, quản lý API và đặc biệt, có những gợi ý hữu ích cho việc lựa chọn kiến trúc cho dự án MVP.
 
-Hành trình rèn luyện tư duy của bạn đã đi một chặng đường dài và đầy ý nghĩa. Những kiến thức và kỹ năng bạn đã học được sẽ là nền tảng vững chắc để bạn trở thành một Software Engineer chuyên nghiệp và tạo ra những ảnh hưởng thực sự trong thế giới công nghệ. Hãy tiếp tục học hỏi, thực hành và khám phá những điều mới mẻ!
+Tuy nhiên, hành trình khám phá tư duy của một kỹ sư phần mềm vẫn chưa dừng lại. Trong thế giới công nghệ luôn đổi mới, việc làm quen với những ngôn ngữ lập trình hiện đại và cách chúng định hình tư duy phát triển là vô cùng quan trọng.
+
+**📝 Chuẩn bị cho chương tiếp theo - ✅ 10 - Rust Thinking:**
+
+Ở chương tiếp theo, chúng ta sẽ cùng nhau khám phá một ngôn ngữ lập trình đang ngày càng được ưa chuộng trong các lĩnh vực như systems programming, embedded systems, web assembly và backend hiệu suất cao: **Rust**.
+
+Rust không chỉ là một ngôn ngữ lập trình, mà còn mang trong mình một triết lý thiết kế độc đáo, tập trung vào **an toàn bộ nhớ (memory safety)** mà không làm giảm đi **hiệu suất**. Chúng ta sẽ cùng nhau tìm hiểu về cách Rust tiếp cận các vấn đề về quản lý bộ nhớ, tính đồng thời (concurrency) và xây dựng các abstraction hiệu quả.
+
+Hãy chuẩn bị tinh thần để khám phá một cách tư duy mới, nơi sự an toàn và hiệu suất không còn là những khái niệm đối lập, mà song hành cùng nhau để tạo ra những phần mềm mạnh mẽ và đáng tin cậy.
+
+Hẹn gặp lại bạn ở chương 10, nơi chúng ta sẽ khám phá thế giới của **Rust Thinking**!

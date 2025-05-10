@@ -124,3 +124,37 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
   - [x] gRPC
   - [x] REST
   - [x] Event Sourcing
+
+---
+
+## ✅ 10 - Rust Thinking - Tư Duy An Toàn và Hiệu Suất
+
+Một hành trình khám phá ngôn ngữ lập trình hiện đại, nơi an toàn bộ nhớ và hiệu suất song hành – mở ra những chân trời mới trong thế giới công nghệ.
+
+- [x] Hiểu triết lý thiết kế của Rust
+  - [x] An toàn bộ nhớ (Memory Safety) và "borrow checker".
+  - [x] Tính đồng thời không sợ hãi (Fearless Concurrency).
+  - [x] Zero-cost abstractions.
+  - [x] Hướng đến hiệu suất.
+- [x] Nắm vững các khái niệm cốt lõi của Rust
+  - [x] Ownership, Borrowing, Lifetimes.
+  - [x] Traits và Generics.
+  - [x] Error Handling (Result và Panic).
+  - [x] Modules và Crates.
+- [x] Tư duy về an toàn bộ nhớ và quản lý tài nguyên
+  - [x] Phân tích và giải quyết các vấn đề liên quan đến bộ nhớ.
+  - [x] Sử dụng RAII (Resource Acquisition Is Initialization) một cách hiệu quả.
+  - [x] Hiểu rõ sự khác biệt giữa heap và stack trong Rust.
+- [x] Tư duy về tính đồng thời an toàn
+  - [x] Sử dụng các primitives đồng thời của Rust (Threads, Mutex, Arc, RwLock).
+  - [x] Hiểu về message passing và actor model (ví dụ: thông qua Actix).
+  - [x] Tránh data races và các vấn đề đồng thời phổ biến.
+- [x] Ứng dụng tư duy Rust trong các lĩnh vực
+  - [x] Systems programming và embedded systems.
+  - [x] WebAssembly.
+  - [x] Backend development hiệu suất cao.
+  - [x] Command-line tools.
+- [x] So sánh tư duy Rust với các ngôn ngữ khác:
+  - [x] Sự khác biệt trong quản lý bộ nhớ so với C/C++.
+  - [x] Cách Rust tiếp cận tính đồng thời so với Java hoặc Python.
+  - [x] Những ưu điểm và nhược điểm khi lựa chọn Rust cho các dự án khác nhau.
