@@ -103,10 +103,10 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 08 - Data Science Thinking
 
-- [ ] Rèn luyện tư duy dữ liệu và các ứng dụng thực tiễn  
-- [ ] Hiểu quy trình xử lý dữ liệu từ raw đến insight  
-- [ ] Nắm vững nền tảng Machine Learning và cách chọn mô hình  
-- [ ] Đánh giá, kiểm thử và tối ưu hóa mô hình AI
+- [x] Rèn luyện tư duy dữ liệu và các ứng dụng thực tiễn  
+- [x] Hiểu quy trình xử lý dữ liệu từ raw đến insight  
+- [x] Nắm vững nền tảng Machine Learning và cách chọn mô hình  
+- [x] Đánh giá, kiểm thử và tối ưu hóa mô hình AI
 
 ---
 
