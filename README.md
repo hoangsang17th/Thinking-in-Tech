@@ -74,15 +74,15 @@ Mỗi chương dưới đây là một lối tư duy cốt lõi giúp bạn *"Th
 
 ## ✅ 06 - Java Thinking
 
-- [ ] Nắm triết lý và nguyên tắc thiết kế của Java  
-- [ ] Thành thạo các mô hình lập trình trong Java:
-  - [ ] OOP
-  - [ ] Functional  
-- [ ] Tuân thủ best practices và tránh anti-patterns  
-- [ ] Ứng dụng Java trong hệ thống lớn:
-  - [ ] Tối ưu hiệu năng
-  - [ ] Khả năng mở rộng
-  - [ ] Bảo trì dễ dàng
+- [x] Nắm triết lý và nguyên tắc thiết kế của Java  
+- [x] Thành thạo các mô hình lập trình trong Java:
+  - [x] OOP
+  - [x] Functional  
+- [x] Tuân thủ best practices và tránh anti-patterns  
+- [x] Ứng dụng Java trong hệ thống lớn:
+  - [x] Tối ưu hiệu năng
+  - [x] Khả năng mở rộng
+  - [x] Bảo trì dễ dàng
 
 ---
 
